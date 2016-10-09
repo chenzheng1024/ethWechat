@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/blockchain/!svn/ver/10/trunk/ethRpc4j/src/main/java/com/umpay/ethrpc4j/methods
+END
+EthMethods.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/blockchain/!svn/ver/10/trunk/ethRpc4j/src/main/java/com/umpay/ethrpc4j/methods/EthMethods.java
+END
+Web3Methods.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/blockchain/!svn/ver/10/trunk/ethRpc4j/src/main/java/com/umpay/ethrpc4j/methods/Web3Methods.java
+END
+ShhMethods.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/blockchain/!svn/ver/10/trunk/ethRpc4j/src/main/java/com/umpay/ethrpc4j/methods/ShhMethods.java
+END
+PersonalMethods.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/blockchain/!svn/ver/10/trunk/ethRpc4j/src/main/java/com/umpay/ethrpc4j/methods/PersonalMethods.java
+END
+DbMethods.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/blockchain/!svn/ver/10/trunk/ethRpc4j/src/main/java/com/umpay/ethrpc4j/methods/DbMethods.java
+END
+NetMethods.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/blockchain/!svn/ver/10/trunk/ethRpc4j/src/main/java/com/umpay/ethrpc4j/methods/NetMethods.java
+END
+MethodsBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/blockchain/!svn/ver/10/trunk/ethRpc4j/src/main/java/com/umpay/ethrpc4j/methods/MethodsBase.java
+END

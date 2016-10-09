@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/blockchain/!svn/ver/9/trunk/ethRpc4j
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/blockchain/!svn/ver/10/trunk/ethRpc4j/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/blockchain/!svn/ver/10/trunk/ethRpc4j/.project
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/blockchain/!svn/ver/10/trunk/ethRpc4j/.gitignore
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/blockchain/!svn/ver/10/trunk/ethRpc4j/build.xml
+END

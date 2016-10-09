@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/blockchain/!svn/ver/10/trunk/ethRpc4j/src/main/java/com/umpay/ethrpc4j/rpc
+END
+HttpRpcProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/blockchain/!svn/ver/10/trunk/ethRpc4j/src/main/java/com/umpay/ethrpc4j/rpc/HttpRpcProvider.java
+END
+RpcProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/blockchain/!svn/ver/10/trunk/ethRpc4j/src/main/java/com/umpay/ethrpc4j/rpc/RpcProvider.java
+END

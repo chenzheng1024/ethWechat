@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/blockchain/!svn/ver/10/trunk/ethRpc4j/src/main/java/com/umpay/ethrpc4j/databind/deserialize
+END
+LogDeserializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/blockchain/!svn/ver/10/trunk/ethRpc4j/src/main/java/com/umpay/ethrpc4j/databind/deserialize/LogDeserializer.java
+END
+TransactionDeserializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/blockchain/!svn/ver/10/trunk/ethRpc4j/src/main/java/com/umpay/ethrpc4j/databind/deserialize/TransactionDeserializer.java
+END
+BlockDeserializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/blockchain/!svn/ver/10/trunk/ethRpc4j/src/main/java/com/umpay/ethrpc4j/databind/deserialize/BlockDeserializer.java
+END
+SyncingDeserializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/blockchain/!svn/ver/10/trunk/ethRpc4j/src/main/java/com/umpay/ethrpc4j/databind/deserialize/SyncingDeserializer.java
+END

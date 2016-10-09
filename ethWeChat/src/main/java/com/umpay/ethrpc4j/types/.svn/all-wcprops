@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/blockchain/!svn/ver/10/trunk/ethRpc4j/src/main/java/com/umpay/ethrpc4j/types
+END
+Log.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/blockchain/!svn/ver/10/trunk/ethRpc4j/src/main/java/com/umpay/ethrpc4j/types/Log.java
+END
+Transaction.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/blockchain/!svn/ver/10/trunk/ethRpc4j/src/main/java/com/umpay/ethrpc4j/types/Transaction.java
+END
+Block.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/blockchain/!svn/ver/10/trunk/ethRpc4j/src/main/java/com/umpay/ethrpc4j/types/Block.java
+END
+Syncing.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/blockchain/!svn/ver/10/trunk/ethRpc4j/src/main/java/com/umpay/ethrpc4j/types/Syncing.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/blockchain/!svn/ver/10/trunk/ethRpc4j/src/integration/java/org/chatch/ethrpc4j/methods
+END
+EthMethodsITTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/blockchain/!svn/ver/10/trunk/ethRpc4j/src/integration/java/org/chatch/ethrpc4j/methods/EthMethodsITTest.java
+END
+Web3MethodsITTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/blockchain/!svn/ver/10/trunk/ethRpc4j/src/integration/java/org/chatch/ethrpc4j/methods/Web3MethodsITTest.java
+END
+DbMethodsITTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/blockchain/!svn/ver/10/trunk/ethRpc4j/src/integration/java/org/chatch/ethrpc4j/methods/DbMethodsITTest.java
+END
+NetMethodsITTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/blockchain/!svn/ver/10/trunk/ethRpc4j/src/integration/java/org/chatch/ethrpc4j/methods/NetMethodsITTest.java
+END

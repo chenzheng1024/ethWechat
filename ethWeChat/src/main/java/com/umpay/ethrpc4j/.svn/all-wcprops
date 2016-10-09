@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/blockchain/!svn/ver/10/trunk/ethRpc4j/src/main/java/com/umpay/ethrpc4j
+END
+CallContract.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/blockchain/!svn/ver/10/trunk/ethRpc4j/src/main/java/com/umpay/ethrpc4j/CallContract.java
+END
+DeployContract.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/blockchain/!svn/ver/10/trunk/ethRpc4j/src/main/java/com/umpay/ethrpc4j/DeployContract.java
+END
+EthereumClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/blockchain/!svn/ver/10/trunk/ethRpc4j/src/main/java/com/umpay/ethrpc4j/EthereumClient.java
+END
